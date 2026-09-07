@@ -1,2 +1,2 @@
-# jewels-cafe
-Jewel's Cafe - Larose Discovering Statistics learning game
+Jewel's Cafe — Discovering Statistics diner game.
+Play: https://jewels-cafe-v22.vercel.app
